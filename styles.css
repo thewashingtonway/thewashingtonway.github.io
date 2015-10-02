@@ -2,3 +2,7 @@ body {
     background: #999;
     family-font: arial;
     }
+    
+    h1 {
+	color: #555;
+}
